@@ -1,0 +1,123 @@
+/*
+ * Default styles
+ */
+@media screen {
+
+html {
+  background-color: #ccc;
+
+}
+
+
+body {
+	background-color:white;
+	padding: 20px;
+	height: 100%;
+}
+
+header {
+	background-color: #DC4E00;
+	padding: 10px;
+
+}
+
+header h1 {
+	margin: 0;
+	font-family: 'Dancing Script', cursive;
+}
+
+h2, h3 {font-family: 'Dancing Script', cursive;}
+
+
+nav {
+	font-variant: small-caps;
+	background-color: #89CEDE;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+
+}
+
+nav ul {
+	list-style: none;
+	padding-left: 0;
+
+}
+
+nav li {
+	display: inline;
+	padding: 10px;
+}
+
+ul {list-style-type:circle;
+
+}
+
+blockquote {
+		font-style: italic;
+		width: 80%;
+		font-family: "Helvetica"; sans-serif;
+
+}
+
+footer {
+		border-top: double thick #929487;
+		align: right;
+}
+
+
+}
+/*
+ * 500px and wider
+ */
+@media screen and (min-width: 500px) {
+	nav {
+		float: left;
+		width: 20%;
+}
+	nav a {
+		font-variant: small-caps;
+		display: block;
+		padding: 10px;
+}
+
+	#content {
+		float: right;
+		width: 70%;
+}
+
+	footer {
+		clear:both;
+		border-top: double thick #929487;
+		align: right;
+}
+
+}
+
+/*
+ * 768px and wider
+ */
+@media screen and (min-width: 768px) {
+
+#content {
+	width: 65%;
+	padding: 10px;
+}
+
+nav {
+	font-size: 20px;
+
+}
+	
+
+}
+
+
+/*
+ * Print styles
+ */
+@media print {
+
+
+
+}
