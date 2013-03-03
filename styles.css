@@ -70,7 +70,7 @@ footer {
 /*
  * 500px and wider
  */
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 645px) {
 	nav {
 		float: left;
 		width: 20%;
@@ -97,7 +97,7 @@ footer {
 /*
  * 768px and wider
  */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 840px) {
 
 #content {
 	width: 65%;
