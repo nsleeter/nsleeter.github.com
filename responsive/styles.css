@@ -52,6 +52,9 @@ nav li {
 ul {list-style-type:circle;
 
 }
+img {width: 400px;
+height: 400px;
+}
 
 blockquote {
 		font-style: italic;
@@ -98,7 +101,9 @@ footer {
  * 768px and wider
  */
 @media screen and (min-width: 840px) {
-
+h1{
+	font-size: 36px;
+}
 #content {
 	width: 65%;
 	padding: 10px;
