@@ -52,8 +52,8 @@ nav li {
 ul {list-style-type:circle;
 
 }
-img {width: 50%;
-height: 50%;
+img {width: 200px;
+height: 200px;
 }
 
 blockquote {
@@ -84,8 +84,8 @@ footer {
 		padding: 10px;
 }
 
-img {width: 400px;
-height: 400px;
+img {width: 300px;
+height: 300px;
 }
 
 	#content {
@@ -112,6 +112,11 @@ h1{
 	width: 65%;
 	padding: 10px;
 }
+
+img {width: 400px;
+height: 400px;
+}
+
 
 nav {
 	font-size: 20px;
