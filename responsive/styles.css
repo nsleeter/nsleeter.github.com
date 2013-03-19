@@ -108,6 +108,10 @@ height: 300px;
 h1{
 	font-size: 36px;
 }
+
+body {
+	max-width: 1200px;
+}
 #content {
 	width: 65%;
 	padding: 10px;
