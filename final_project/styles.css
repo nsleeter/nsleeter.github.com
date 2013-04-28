@@ -1,0 +1,79 @@
+html {
+background-color: #555555;
+
+}
+ 
+
+ body {width: 70%;
+margin: 5px auto;
+padding: 5px;
+font-family: 'Raleway', sans-serif;}
+header {
+	
+	padding: 0px;
+
+}
+
+
+
+
+ header h1 {
+    color: black;
+float: left;
+font-family: 'Josefin Sans', sans-serif; 
+padding-bottom: 0px;}
+
+header h2 {
+color: black;
+float: left;
+padding-top: 0px;
+margin-left: 200px;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+color: rgb(60, 141, 197);
+
+}
+
+
+h4 {
+color: rgb(60, 141, 197);
+text-align: right;
+}
+
+
+nav {
+
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+
+}
+
+nav ul {
+	list-style: none;
+	padding-left: 0;
+
+}
+
+nav li {
+	display: inline;
+	padding: 10px;
+	float: right;
+}
+
+ul {list-style-type:circle;
+
+}
+
+div.img
+{
+  margin: 10px;
+  border: 5px black;
+  height: auto;
+  width: auto;
+  float: right;
+  text-align: center;
+} 
