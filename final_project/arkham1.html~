@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Nate Sleeter's Digital Portfolio</title>
+ 
+<link href='http://fonts.googleapis.com/css?family=Raleway|Josefin+Sans:700|Philosopher:700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="exhibit_styles.css"
+</head>
+ <body>   
+    
+    <div id="wrap">
+    <div id="header"><h1>Danvers State Hospital: The Real Arkham</h1></div>
+    <div id="nav">
+    <ul>
+    <li><a href="http://nsleeter.github.com/final_project/DIY">Lesson</a></li>
+        <li><a href="http://nsleeter.github.com/final_project/arkham1">Exhibit</a></li>
+        <li><a href="http://nsleeter.github.com/final_project/about">About</a></li>
+		<li><a href="http://nsleeter.github.com/final_project">Home</a></li
+    ...
+    </ul>
+    </div>
+    <div id="main">
+    <h2>History</h2>
+    <p>With a presence in Batman comics and a popular video game, the Arkham Asylum represents on of the most famous mental institutions in popular culture.  As such, it represents a unique opportunity to investigate the history of asylums in America.  Arkham fist appeared in Batman in 1974, but it has its own interesting history within popular culture as it appears to be a reference to a fictional city created by the horror writer H.P. Lovecraft in his stories written in the 1920s and 30s.  </p>
+    <p>For this project I seek to analyze a primary source from the instiution on which Lovecraft's sanitarium was possibly based, the Danvers State Hospital for the Insane in Danvers, Massachusetts.  An <a href="http://www.archive.org/stream/annualreportofdep1939mass/annualreportofdep1939mass_djvu.txt">annual report from 1939</a>, only six years from Lovecraft's story, provides an opportunity to examine the history of the institution.  
+    </div>
+    <div id="sidebar">
+    <h2>Thinking Out Loud</h2>
+    <p>Lovecraft's 1933 story "The Thing on the Doorstep" seems to be the first mention of the Arkham sanitarium and actually represents an interesting primary source on its own.  The horror in the story stems from a man using black magic to possess the bodies of those around him, and thus taps into the anxiety that the "real" person can never be truly divined.  An anxiety closely related to the impulse to confine the insane and mentally disabled in asylums</p>
+    <ul>
+    <li><a href="#">Link 1</a></li>
+    <li><a href="#">Link 2</a></li>
+    ...
+    </ul>
+    </div>
+    <div id="footer">
+    <p>Footer</p>
+    </div>
+    </div>
+</body>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Nate Sleeter's Digital Portfolio</title>
+ 
+<link href='http://fonts.googleapis.com/css?family=Raleway|Josefin+Sans:700|Philosopher:700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<nav>
+    <ul>
+        <li><a href="http://nsleeter.github.com/final_project/DIY">Lesson</a></li>
+        <li><a href="http://nsleeter.github.com/final_project/arkham1">Exhibit</a></li>
+        <li><a href="http://nsleeter.github.com/final_project/about">About</a></li>
+		<li><a href="http://nsleeter.github.com/final_project">Home</a></li
+
+    ></ul>
+</nav>
+ <header>
+
+<h1>Looking Beyond Ghost Stories</h1>
+<h2>Making History in the Asylum</h2>
+</header>
+
+<div id="content">
+<h3>Goal</h3>
+
+<p>This site is dedicated to the assumption that the history of disability is important and that the best way to learn is by doing.  It has been developed with close attention to the scholarship of teaching and learning in general and history in particular.  </p>
+
+
+
+
+<h3>A Historian's Rough Draft</h3>
+<p>
+Educational psychologist Sam Wineberg has noted that historical thinking is difficult to teach students, because historians themselves rarely record the process of their thinking.  As a historian in training, therefore, I think it would be useful to explicitly demonstrate the skills I am learning but have yet to master. It is my hope that my inexpertise might actually be advantageous for students to see how historians learn to think about the evidence they use to bring meaning to the past.  
+</p>
+<h3>Authentic Assessment</h3>
+<p>
+Students will create a public historical exhibit which will have the following elements --
+
+Uses actual evidence from the past (primary sources) and attempts to interpret what they might mean. Firm conclusions are not necessary and doubt is OK.  It should also be fully acceptable for groups to work on this together and for the project to be open-ended.  The only other requirement is that students justify their choices -- why did they choose this piece of evidence?  How did they come to their interpretation of its meaning?
+
+Find Evidence
+
+Interpret Evidence
+
+Justify Choices 
+
+</p>
+<hr></hr>
+
+
+</div>
+</body>
+</html>
