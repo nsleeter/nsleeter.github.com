@@ -50,8 +50,24 @@ font-family: 'Josefin Sans', sans-serif;
 }
 
 #header a link{ color: black;
+		text-decoration:none;
 
 }
+
+#header a visited { color: black;
+		text-decoration:none;
+
+}
+#header a hover{ color: black;
+		text-decoration:none;
+
+}
+
+#header a active { color: black;
+		text-decoration:none;
+
+}
+
 
 h3 {
 color: rgb(3,101,100);
