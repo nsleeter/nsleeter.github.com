@@ -84,6 +84,7 @@ text-align: right;
 	}
 	#content p{
 	width:600px;
+	text-align: left;
 	margin-left:100px;
 	padding: 10px 20px 5px 20px;
 	font-family: Helvetica, sans-serif;
