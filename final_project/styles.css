@@ -102,6 +102,47 @@ text-align: right;
 	border-style:solid;
 	border-color:black;
 	}
+#content2{
+	width:950px;
+	float:left;
+	height:100%;
+	
+	}
+#content2 h3{
+	text-align:left;
+	font-size: 1.4em;
+	margin-left: 0px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+	}
+	
+
+	#content2 blockquote {
+		width:500px;
+	margin-left:150px;
+	margin-right: 100px;
+	padding: 10px 20px 5px 20px;
+	font-family: Helvetica, sans-serif;
+	line-height:1.3em;	
+	}
+	#content2 p{
+	width:600px;
+	text-align: left;
+	margin-left:100px;
+	padding: 10px 20px 5px 20px;
+	font-family: Helvetica, sans-serif;
+	line-height:1.3em;
+	
+	}
+#content2 img{
+	width:300px;
+	float:left;
+	margin-left: 150px;
+	margin:10px 25px 10px 25px;
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+	}
 nav {
 
 
