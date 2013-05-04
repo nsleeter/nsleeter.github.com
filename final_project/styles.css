@@ -52,6 +52,7 @@ font-family: 'Josefin Sans', sans-serif;
 h3 {
 color: rgb(3,101,100);
 
+
 }
 
 
@@ -71,6 +72,7 @@ text-align: right;
 	font-size: 1.4em;
 	margin-left: 0px;
 	font-family: 'Josefin Sans', sans-serif;
+	clear: both;
 	}
 	
 
