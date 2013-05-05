@@ -20,6 +20,7 @@ font-family: 'Helvetica', sans-serif;
 }
 
 A:link {text-decoration: none}
+A:visited {text-decoration: none}
 
 header {
 	
