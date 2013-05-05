@@ -38,9 +38,9 @@ header {
     font-weight: 700;
 align: left;
 font-family: 'Josefin Sans', sans-serif; 
-padding-top:10px;
+padding-top:20px;
 padding-bottom: 0px;
-font-size: 2.3em;
+font-size: 2.5em;
 }
 
 header h2 {
@@ -49,9 +49,10 @@ align:left;
 margin-top: 0px;
 padding-top: 0px;
 padding-bottom: 25px;
-margin-left: 125px;
+margin-left: 175px;
 font-family: 'Josefin Sans', sans-serif;
 font-weight: 400;
+font-size: 2em;
 }
 
 
