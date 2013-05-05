@@ -16,7 +16,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28343b', end
  body {width: 70%;
 margin: 5px auto;
 padding: 5px;
-font-family: 'Helvetica', sans-serif;}
+font-family: 'Helvetica', sans-serif;
+}
+
+A:link {text-decoration: none}
+
 header {
 	
 	padding: 10px;
