@@ -38,11 +38,13 @@ header {
     font-weight: 700;
 align: left;
 font-family: 'Josefin Sans', sans-serif; 
+padding-top:10px;
 padding-bottom: 0px;}
 
 header h2 {
 color: black;
 align:left;
+margin-top: 0px;
 padding-top: 0px;
 padding-bottom: 25px;
 margin-left: 125px;
