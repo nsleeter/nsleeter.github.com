@@ -35,6 +35,7 @@ header {
 
  header h1 {
     color: black;
+    font-weight: 700;
 align: left;
 font-family: 'Josefin Sans', sans-serif; 
 padding-bottom: 0px;}
@@ -46,6 +47,7 @@ padding-top: 0px;
 padding-bottom: 25px;
 margin-left: 125px;
 font-family: 'Josefin Sans', sans-serif;
+font-weight: 100;
 }
 
 
