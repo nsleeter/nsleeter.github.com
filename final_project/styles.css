@@ -19,8 +19,7 @@ padding: 5px;
 font-family: 'Helvetica', sans-serif;
 }
 
-.header a:link {text-decoration: none}
-.header a:visited {text-decoration: none}
+
 
 header {
 	
@@ -53,7 +52,8 @@ font-weight: 400;
 font-size: 2em;
 }
 
-
+.header a:link {text-decoration: none}
+.header a:visited {text-decoration: none}
 
 h3 {
 color: rgba(255,255,255,0.5);
