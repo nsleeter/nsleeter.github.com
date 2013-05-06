@@ -22,7 +22,7 @@ font-family: 'Helvetica', sans-serif;
 a:link {text-decoration: none;
 	color:gray;}
 a:visited {text-decoration: none;
-	color:#999999;}
+	color:rgba(153,153,153,0.5);}
 
 header {
 	
