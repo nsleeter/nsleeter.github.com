@@ -54,6 +54,7 @@ font-size: 2em;
 }
 
 
+
 h3 {
 color: rgb(3,101,100);
 
@@ -62,8 +63,10 @@ color: rgb(3,101,100);
 
 
 h4 {
-color: rgb(60, 141, 197);
+color: black;
 text-align: right;
+font-family: 'Josefin Sans', sans-serif;
+
 }
 
 #content{
