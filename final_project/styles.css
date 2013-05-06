@@ -63,8 +63,9 @@ color: rgb(3,101,100);
 
 
 h4 {
+font-weight: 700;
 color: black;
-text-align: right;
+text-align: left;
 font-family: 'Josefin Sans', sans-serif;
 
 }
