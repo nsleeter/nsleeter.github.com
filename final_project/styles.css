@@ -19,8 +19,8 @@ padding: 5px;
 font-family: 'Helvetica', sans-serif;
 }
 
-#header a:link {text-decoration: none}
-#header a:visited {text-decoration: none}
+.header h1 a:link {text-decoration: none}
+.header h1 a:visited {text-decoration: none}
 
 header {
 	
