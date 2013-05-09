@@ -198,7 +198,9 @@ nav li {
 	display: inline;
 	padding: 10px;
 	align: right;
+}
 
+nav li a {color: red;}
 
 ul {list-style-type:circle;
 
