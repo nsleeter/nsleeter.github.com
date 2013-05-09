@@ -20,7 +20,7 @@ font-family: 'Helvetica', sans-serif;
 }
 
 a:link {text-decoration: none;
-	color:rgba(77,77,77,0.5);}
+	color:rgba(77,77,77,1);}
 a:visited {text-decoration: none;
 	color:rgba(255,255,255,0.5);}
 
@@ -154,6 +154,18 @@ font-size: 1.4em;
 	border-style:solid;
 	border-color:black;
 	}
+nav a: link{
+	color: black;
+	text-decoration: underline;
+	
+}
+
+nav a: hover{
+	color: black;
+	font-weight:bold;
+	text-decoration: underline;
+} 
+
 nav {
 
 
