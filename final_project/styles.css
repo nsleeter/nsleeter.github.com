@@ -98,7 +98,7 @@ font-size: 1.4em;
 	#content p{
 	width:600px;
 	text-align: left;
-	margin-left:100px;
+	margin-left:0px;
 	padding: 10px 20px 5px 20px;
 	font-family: Helvetica, sans-serif;
 	line-height:1.3em;
