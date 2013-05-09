@@ -176,13 +176,13 @@ nav li {
 	float: right;
 }
 
-#nav a: link{
+#content a: link{
 	color: black;
 	text-decoration: underline;
 	
 }
 
-#nav a: hover{
+#content a: hover{
 	color: black;
 	font-weight:bold;
 	text-decoration: underline;
