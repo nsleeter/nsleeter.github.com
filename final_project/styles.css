@@ -197,7 +197,7 @@ nav ul {
 nav li {
 	display: inline;
 	padding: 10px;
-	float: right;
+	align: right;
 
 
 ul {list-style-type:circle;
