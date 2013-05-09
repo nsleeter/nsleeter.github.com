@@ -113,6 +113,20 @@ font-size: 1.4em;
 	border-style:solid;
 	border-color:black;
 	}
+	}
+
+#content a{
+	color: black;
+	text-decoration: underline;
+	
+}
+
+#content a: hover{
+	color: black;
+	font-weight:bold;
+	text-decoration: underline;
+} 
+
 #content2{
 	width:950px;
 	float:left;
@@ -174,19 +188,6 @@ nav li {
 	display: inline;
 	padding: 10px;
 	float: right;
-}
-
-.content a: link{
-	color: black;
-	text-decoration: underline;
-	
-}
-
-.content a: hover{
-	color: black;
-	font-weight:bold;
-	text-decoration: underline;
-} 
 
 
 ul {list-style-type:circle;
