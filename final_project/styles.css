@@ -34,8 +34,14 @@ a:link {text-decoration: none;
 a:visited {text-decoration: none;
 	color:rgba(176,176,176,1);}
 	
-a: hover {font-weight: bold;
+a:hover {color: black;
+	font-weight: bold;
 	text-decoration: underline;}
+	
+a:active {font-weight: bold;
+	text-decoration: underline;}
+	
+	
 
 header {
 	
