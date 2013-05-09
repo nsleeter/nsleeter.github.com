@@ -8,13 +8,13 @@ html {
 /*background: linear-gradient(to bottom,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* W3C */
 /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28343b', endColorstr='#b5bdc8',GradientType=0 ); /* IE6-9 */*/
 
-background-image: url(Warren state.jpg), rgb(40,52,59); /* Old browsers */
-background-image: url(Warren state.jpg), -moz-linear-gradient(top,  rgba(40,52,59,1) 1%, rgba(130,140,149,1) 22%, rgba(181,189,200,1) 100%); /* FF3.6+ */
-background-image: url(Warren state.jpg), -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(40,52,59,1)), color-stop(22%,rgba(130,140,149,1)), color-stop(100%,rgba(181,189,200,1))); /* Chrome,Safari4+ */
-background-image: url(Warren state.jpg), -webkit-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* Chrome10+,Safari5.1+ */
-background-image: url(Warren state.jpg), -o-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* Opera 11.10+ */
-background-image: url(Warren state.jpg), -ms-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* IE10+ */
-background-image: url(Warren state.jpg), linear-gradient(to bottom,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* W3C */
+background-image: url(Danvers.jpg), rgb(40,52,59); /* Old browsers */
+background-image: url(Danvers.jpg), -moz-linear-gradient(top,  rgba(40,52,59,1) 1%, rgba(130,140,149,1) 22%, rgba(181,189,200,1) 100%); /* FF3.6+ */
+background-image: url(Danvers.jpg), -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(40,52,59,1)), color-stop(22%,rgba(130,140,149,1)), color-stop(100%,rgba(181,189,200,1))); /* Chrome,Safari4+ */
+background-image: url(Danvers.jpg), -webkit-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* Chrome10+,Safari5.1+ */
+background-image: url(Danvers.jpg), -o-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* Opera 11.10+ */
+background-image: url(Danvers.jpg), -ms-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* IE10+ */
+background-image: url(Danvers.jpg), linear-gradient(to bottom,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28343b', endColorstr='#b5bdc8',GradientType=0 ); /* IE6-9 */
 
 
