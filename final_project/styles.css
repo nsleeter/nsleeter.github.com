@@ -123,14 +123,18 @@ font-size: 1.4em;
 	border-style:solid;
 	border-color:black;
 	}
-	}
+	
 
-#content a{
+#content a: link{
 	color: black;
 	text-decoration: underline;
 	
 }
-
+#content a: visited{
+	color: gray;
+	text-decoration: underline;
+	
+}
 #content a: hover{
 	color: black;
 	font-weight:bold;
