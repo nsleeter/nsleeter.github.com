@@ -200,7 +200,7 @@ nav li {
 	align: right;
 }
 
-nav li a {color: red;}
+nav li a link {color: red;}
 
 ul {list-style-type:circle;
 
