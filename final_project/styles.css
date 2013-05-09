@@ -154,17 +154,6 @@ font-size: 1.4em;
 	border-style:solid;
 	border-color:black;
 	}
-nav a: link{
-	color: black;
-	text-decoration: underline;
-	
-}
-
-nav a: hover{
-	color: black;
-	font-weight:bold;
-	text-decoration: underline;
-} 
 
 nav {
 
@@ -187,8 +176,18 @@ nav li {
 	float: right;
 }
 
-#nav a:link {text-decoration: none}
-#nav a:visited {text-decoration: none}
+#nav a: link{
+	color: black;
+	text-decoration: underline;
+	
+}
+
+#nav a: hover{
+	color: black;
+	font-weight:bold;
+	text-decoration: underline;
+} 
+
 
 ul {list-style-type:circle;
 
