@@ -1,3 +1,249 @@
+/*
+ * Default styles
+ */
+@media screen {
+html {
+background: rgb(40,53,60); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(40,53,60,1) 1%, rgba(127,138,147,1) 18%, rgba(175,183,195,1) 99%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(40,53,60,1)), color-stop(18%,rgba(127,138,147,1)), color-stop(99%,rgba(175,183,195,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(40,53,60,1) 1%,rgba(127,138,147,1) 18%,rgba(175,183,195,1) 99%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(40,53,60,1) 1%,rgba(127,138,147,1) 18%,rgba(175,183,195,1) 99%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(40,53,60,1) 1%,rgba(127,138,147,1) 18%,rgba(175,183,195,1) 99%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(40,53,60,1) 1%,rgba(127,138,147,1) 18%,rgba(175,183,195,1) 99%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28353c', endColorstr='#afb7c3',GradientType=0 ); /* IE6-9 */
+
+
+
+/*background-image: url(Danvers.jpg), rgb(40,52,59); /* Old browsers */
+/*background-image: url(Danvers.jpg), -moz-linear-gradient(top,  rgba(40,52,59,1) 1%, rgba(130,140,149,1) 22%, rgba(181,189,200,1) 100%); /* FF3.6+ */
+/*background-image: url(Danvers.jpg), -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(40,52,59,1)), color-stop(22%,rgba(130,140,149,1)), color-stop(100%,rgba(181,189,200,1))); /* Chrome,Safari4+ */
+/*background-image: url(Danvers.jpg), -webkit-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* Chrome10+,Safari5.1+ */
+/*background-image: url(Danvers.jpg), -o-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* Opera 11.10+ */
+/*background-image: url(Danvers.jpg), -ms-linear-gradient(top,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* IE10+ */
+/*background-image: url(Danvers.jpg), linear-gradient(to bottom,  rgba(40,52,59,1) 1%,rgba(130,140,149,1) 22%,rgba(181,189,200,1) 100%); /* W3C */
+/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28343b', endColorstr='#b5bdc8',GradientType=0 ); /* IE6-9 */
+
+
+
+
+}
+ 
+
+ body {width: 70%;
+margin: 5px auto;
+padding: 5px;
+font-family: 'Helvetica', sans-serif;
+}
+
+a:link {text-decoration: none;
+	color:rgba(77,77,77,1);}
+a:visited {text-decoration: none;
+	color:rgba(145,145,145,1);}
+	
+a:hover {color: black;
+	font-weight: bold;
+	text-decoration: underline;}
+	
+a:active {font-weight: bold;
+	text-decoration: underline;}
+	
+	
+
+header {
+	
+	padding: 10px;
+
+}
+
+
+
+
+header h1 {
+    color: black;
+    font-weight: 700;
+align: left;
+font-family: 'Josefin Sans', sans-serif; 
+padding-top:20px;
+padding-bottom: 0px;
+font-size: 2.5em;
+}
+
+header h2 {
+color: black;
+align:left;
+margin-top: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-left: 0px;
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 400;
+font-size: 2em;
+}
+
+
+h3 {
+color: rgba(255,255,255,0.5);
+
+
+}
+
+
+h4 {
+font-weight: 700;
+color: black;
+text-align: left;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 1.4em;
+
+}
+
+#content{
+	width:950px;
+	float:left;
+	height:100%;
+	
+	}
+#content h3{
+	text-align:left;
+	font-size: 1.4em;
+	margin-left: 0px;
+	font-family: 'Josefin Sans', sans-serif;
+	clear: both;
+	}
+	
+
+	#content blockquote {
+		width:500px;
+	margin-left:150px;
+	margin-right: 100px;
+	padding: 10px 20px 5px 20px;
+	font-family: Helvetica, sans-serif;
+	line-height:1.3em;	
+	}
+	#content p{
+	width:450px;
+	text-align: left;
+	margin-left:0px;
+	padding: 10px 20px 5px 20px;
+	font-family: Helvetica, sans-serif;
+	line-height:1.3em;
+	clear: both;
+	}
+#content img{
+	width:200px;
+	float:left;
+	margin-left: 100px;
+	margin:10px 25px 10px 20px;
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+	}
+	
+
+#content a: link{
+	color: black;
+	text-decoration: underline;
+	
+}
+#content a: visited{
+	color: gray;
+	text-decoration: underline;
+	
+}
+#content a: hover{
+	color: black;
+	font-weight:bold;
+	text-decoration: underline;
+} 
+
+#content2{
+	width:950px;
+	float:left;
+	height:100%;
+	
+	}
+#content2 h3{
+	text-align:left;
+	font-size: 1.4em;
+	margin-left: 0px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+	}
+	
+
+	#content2 blockquote {
+		width:500px;
+	margin-left:150px;
+	margin-right: 100px;
+	padding: 10px 20px 5px 20px;
+	font-family: Helvetica, sans-serif;
+	line-height:1.3em;	
+	}
+	#content2 p{
+	width:600px;
+	text-align: left;
+	margin-left:100px;
+	padding: 10px 20px 5px 20px;
+	font-family: Helvetica, sans-serif;
+	line-height:1.3em;
+	
+	}
+#content2 img{
+	width:300px;
+	float:left;
+	margin-left: 150px;
+	margin:10px 25px 10px 25px;
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+	}
+
+nav {
+
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+
+}
+
+nav ul {
+	list-style: none;
+	padding-left: 0;
+	float: right;
+	clear: both;
+
+}
+
+nav li {
+	display: inline;
+	padding: 10px;
+
+}
+
+/*nav li a link {color: red;}*/
+
+/*ul {list-style-type:circle;
+
+}*/
+
+div.img
+{
+  margin: 10px;
+  border: 5px black;
+  height: auto;
+  width: auto;
+  float: right;
+  text-align: center;
+}
+footer{
+	padding: 50px;
+}
+
+}
+@media screen and (min-width: 645px) {
+
+
 html {
 background: rgb(40,53,60); /* Old browsers */
 background: -moz-linear-gradient(top,  rgba(40,53,60,1) 1%, rgba(127,138,147,1) 18%, rgba(175,183,195,1) 99%); /* FF3.6+ */
@@ -234,4 +480,5 @@ div.img
 }
 footer{
 	padding: 50px;
+}
 }
